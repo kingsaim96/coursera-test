@@ -123,9 +123,11 @@ p {
 	    width: 41.66%;
 	  }
 	  .col-md-6 {
-	    width: 50%;
+	    width: 47%;
 	    background-color: grey;
 	    margin-bottom: 20px;
+	    margin-right: 1%; 
+	    margin-left: 1%;
 	  }
 	  .col-md-7 {
 	    width: 58.33%;
